@@ -1,1 +1,1 @@
-# up-skills
+# java code practice
